@@ -48,4 +48,4 @@ Phân tích FFT theo từng frame
 
 Tìm tần số đặc trưng
 
-Suy ra nốt nhạc theo âm giai
+Suy ra nốt nhạc theo giai diệu
